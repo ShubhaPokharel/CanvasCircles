@@ -1,0 +1,18 @@
+ #MyCanvas {
+    border: 3px solid rgb(175, 135, 135);
+    
+}
+
+
+
+h1{
+    font-size:70px;
+    font-family:cursive;
+    color:rgb(229, 120, 120);
+} 
+
+.body_backgorund{
+    background-image: url("bg1 copy.jpg");
+    background-size: cover;
+}
+
